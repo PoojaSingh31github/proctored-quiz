@@ -1,0 +1,81 @@
+[
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "What is the square root of 16?",
+    "options": ["2", "4", "8"],
+    "answer": "4"
+  },
+  {
+    "question": "What is the chemical symbol for Gold?",
+    "options": ["Au", "Ag", "Pb"],
+    "answer": "Au"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln"],
+    "answer": "George Washington"
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": ["William Shakespeare", "Charles Dickens", "Jane Austen"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Central Print Unit",
+      "Computer Processing Unit"
+    ],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "Which band is known for the song 'Bohemian Rhapsody'?",
+    "options": ["The Beatles", "Queen", "Led Zeppelin"],
+    "answer": "Queen"
+  },
+  {
+    "question": "Which film won the Oscar for Best Picture in 1994?",
+    "options": ["Pulp Fiction", "Forrest Gump", "The Shawshank Redemption"],
+    "answer": "Forrest Gump"
+  },
+  {
+    "question": "How many players are there on a soccer team?",
+    "options": ["7", "9", "11"],
+    "answer": "11"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Jupiter", "Saturn"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Who is known as the father of modern physics?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Diamond", "Iron"],
+    "answer": "Diamond"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "Japan", "South Korea"],
+    "answer": "Japan"
+  },
+  {
+    "question": "What element does 'O' represent on the periodic table?",
+    "options": ["Oxygen", "Osmium", "Oganesson"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "What year did the Titanic sink?",
+    "options": ["1912", "1905", "1918"],
+    "answer": "1912"
+  }
+]

@@ -1,0 +1,6 @@
+0 Looking at Screen
+1 Looking Left
+2 Looking Right
+3 Looking Up
+4 Looking down
+5 Not in Frame
